@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-script": "^2.0.5",
+    "serve": "^14.2.0"
+  }
+}
